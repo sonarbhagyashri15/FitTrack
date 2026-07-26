@@ -198,20 +198,3 @@ If you would like to contribute:
 
 This project was developed for academic and educational purposes.
 
----
-
-# Developer
-
-**Name:** Bhagyashri Sonar
-
-**Project:** FitTrack
-
-**Framework:** Laravel 13
-
-**Database:** MySQL
-
-**Frontend:** HTML5, CSS3, Bootstrap 5
-
-**Backend:** PHP (Laravel)
-
-**Course:** Master of Computer Applications (MCA)
